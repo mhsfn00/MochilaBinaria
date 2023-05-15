@@ -1,5 +1,6 @@
 Para executar o código:
   python3 knapH.py knap200i1008w.txt
   
- Segundo argumento da chamada é o arquivo de instâncias. 
-Lembrar de usar arquivos com o mesmo formato do exemplo fornecido.
+Segundo argumento da chamada é o arquivo de instâncias;
+Lembrar de usar arquivos com o mesmo formato do exemplo fornecido;
+Nos arquivos .txt, 200i : 200 items, 1008w : peso máximo 1008.
